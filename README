@@ -1,0 +1,5 @@
+docker compose example running rails 5.1 app with nginx over https
+
+git clone https://github.com/rodolfoliviero/docker-nginx-https.git
+docker-compose up
+open https://localhost
